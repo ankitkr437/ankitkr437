@@ -1,4 +1,4 @@
-[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)]
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)]
 
 <h1 align="center">Hi 👋, I'm Ankit kumar</h1>
 <h3 align="center">A Mern Stack Web developer from India</h3>

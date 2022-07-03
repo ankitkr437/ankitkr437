@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit kumar</h1>
 <h3 align="center">A Mern Stack Web developer from India</h3>
 
-- 🌱 I’m currently learning **Data structure and algorithms*
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 - 💬 Ask me about **MERN**
 
 <h3 align="left">Connect with me:</h3>

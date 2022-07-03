@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ankit kumar</h1>
 <h3 align="center">A Mern Stack Web developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js**
-- 🤝 I’m always looking for **Open Source Contribution**
+- 🌱 I’m currently learning **Data structure and algorithms*
 - 💬 Ask me about **MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/ankitkr437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitkr437" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ankitloharshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ankit kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit kumar</h1>
 
-📫 Reach me at ankitloharshi@gmail.com
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ankit-kumar-612064205/" target="blank"><img align="center" src="./linkedin.svg" alt="linkedin" height="30" width="40" color="white" /></a>
